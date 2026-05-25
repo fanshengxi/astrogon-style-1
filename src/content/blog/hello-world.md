@@ -1,5 +1,5 @@
 ---
-title: Hello Worrld
+title: Hello World
 description: This is my first blog.
 date: 2026-05-25
 image: "@assets/blog/emmy-noether.jpg"
