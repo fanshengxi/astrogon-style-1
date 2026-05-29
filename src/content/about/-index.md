@@ -1,8 +1,12 @@
 ---
 title: Hey, I'm Shengxi Fan!
-description: this is meta description
+description: 关于 Shengxi Fan，以及这个博客记录的技术笔记、个人随笔和项目日志。
 image: "@assets/profile/jane-doe.jpg"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+这里是我整理想法和项目进展的地方。
+
+我会把内容分成三条主线：技术笔记用于沉淀编程、工具和工程实践；个人随笔用于记录阅读、生活和阶段性的想法；项目日志用于追踪正在构建的东西，包括设计取舍、踩坑记录和迭代过程。
+
+这个站点会随着我写作和做项目慢慢长出来。比起一次性写成完整作品，我更希望它像一份持续更新的工作台。

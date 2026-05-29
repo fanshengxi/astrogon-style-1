@@ -8,4 +8,5 @@ services:
       - /app/node_modules
     environment:
       - CHOKIDAR_USEPOLLING=true
+      - SITE_URL=http://localhost:4321
     command: npm run dev -- --host 0.0.0.0

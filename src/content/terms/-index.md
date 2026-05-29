@@ -1,21 +1,21 @@
 ---
-title: Terms & Conditions
+title: 使用条款
 ---
 
 ## Copyright
 
-&copy; 2025 Jane Doe. All rights reserved.
+&copy; 2026 Shengxi Fan. All rights reserved.
 
 ## Reuse
 
 ### Source Code
 
-The source code for janedoe.com is protected under the MIT License. In short, you can do as you see fit, so long as you include the original copyright notice in any copy of the software.
+The source code for this site is protected under the MIT License. In short, you can do as you see fit, so long as you include the original copyright notice in any copy of the software.
 
 ```md
 The MIT License (MIT)
 
-Copyright (c) 2025 Jane Doe
+Copyright (c) 2026 Shengxi Fan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
